@@ -1,2 +1,2 @@
 # aqualifebilling
-6th sem backend billing system based on java
+Backend billing system based on java and mysql 
