@@ -16,4 +16,6 @@ sales -fields are- id,date,subtota,pay,balance,prd_id
 --note all field are in int formate except date and prd_id and prd_id *doesnot contain any data* its just a failed experiment yet important
 
 sales_product fields are- id,sales_id,product_id,sell_price,qty,total
---note all field are in int formate
+--note all field are in int format
+
+--a printer can be connected to the system to get direct hardcopy prints of the reciepts
