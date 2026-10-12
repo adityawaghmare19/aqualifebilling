@@ -328,7 +328,3 @@ Built for aquatic fish store businesses to streamline operations and improve cus
 
 ---
 
-**Made with ❤️ for aquatic store management**
-
-**Last Updated**: 2026  
-**Status**: Active Development
